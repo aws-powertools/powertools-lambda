@@ -1,6 +1,6 @@
 ## Lambda Powertools Roadmap
 
-This is the public roadmap for the open source library AWS Lambda Powertools, currently available in [Python](https://github.com/awslabs/aws-lambda-powertools-python/) and [Java](https://github.com/awslabs/aws-lambda-powertools-java/).
+This is the public roadmap for the open source library AWS Lambda Powertools, currently available in [Python](https://github.com/awslabs/aws-lambda-powertools-python/), [Java](https://github.com/awslabs/aws-lambda-powertools-java/), and [Typescript](https://github.com/awslabs/aws-lambda-powertools-typescript).
 
 > Feature requests and RFCs created in the official repositories will be migrated here.
 
