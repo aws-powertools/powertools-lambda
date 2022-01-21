@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Runtime:** 
-<!-- Python, Java, all of them -->
+<!-- Python, Java, Typescript, all of them -->
 
 **Is your feature request related to a problem? Please describe**
 <!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->

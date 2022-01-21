@@ -33,7 +33,7 @@ approved by: ''
 
 > Explain the design in enough detail for somebody familiar with Powertools to understand it, and for somebody familiar with the implementation to implement it.
 
-**If this feature should be available in other runtimes (e.g. Java), how would this look like to ensure consistency?**
+**If this feature should be available in other runtimes (e.g. Java, Typescript), how would this look like to ensure consistency?**
 
 ## User Experience
 
