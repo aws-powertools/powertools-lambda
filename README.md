@@ -10,6 +10,8 @@ Please use GitHub issues to raise feature requests, and RFCs to propose feature 
 
 [See the roadmap »](https://github.com/awslabs/aws-lambda-powertools-roadmap/projects/1)
 
+**NOTE**: We're progressively migrating to GitHub Projects Beta. We're starting with Python: https://awslabs.github.io/aws-lambda-powertools-python/latest/roadmap. As we complete and agree on a baseline and automation, we will repurpose this repository to be a landing page for feature parity across languages and more.
+
 ### Roadmap structure
 
 **Ideas**. Incoming and existing feature requests that are not being actively considered yet. These will be reviewed by the team when possible.
