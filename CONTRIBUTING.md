@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to our project. For bug reports, documentation improvements, or pull requests, please open them in the respective runtime repository: [Python](https://github.com/awslabs/aws-lambda-powertools-python/), [Java](https://github.com/awslabs/aws-lambda-powertools-java/).
+Thank you for your interest in contributing to our project. For bug reports, documentation improvements, or pull requests, please open them in the respective runtime repository: [Python](https://github.com/awslabs/aws-lambda-powertools-python/), [Java](https://github.com/awslabs/aws-lambda-powertools-java/), and [Typescript](https://github.com/awslabs/aws-lambda-powertools-typescript).
 
 Please read through this document before submitting any feature request to ensure we have all the necessary information to effectively respond to your contribution.
 
