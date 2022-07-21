@@ -1,0 +1,81 @@
+site_name: AWS Lambda Powertools
+site_description: AWS Lambda Powertools
+site_author: Amazon Web Services
+repo_url: https://github.com/awslabs/aws-lambda-powertools
+edit_uri: edit/main/docs
+
+nav:
+  - Homepage: index.md
+
+theme:
+  name: material
+  font:
+    text: Ubuntu
+  palette:
+    - scheme: default
+      primary: deep orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+    - navigation.instant
+    - navigation.indexes
+    - navigation.tracking
+    - content.code.annotate
+    - toc.integrate
+  icon:
+    repo: fontawesome/brands/github
+  logo: media/aws-logo-light.svg
+  favicon: media/aws-logo-light.svg
+  custom_dir: docs/overrides
+
+markdown_extensions:
+  - admonition
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets:
+      base_path: "."
+      check_paths: true
+  - meta
+  - toc:
+      permalink: true
+      toc_depth: 4
+  - attr_list
+  - pymdownx.emoji
+  - pymdownx.inlinehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+copyright: Copyright &copy; 2022 Amazon Web Services
+
+plugins:
+  - git-revision-date
+  - search
+
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascript/aws-amplify.min.js
+  - javascript/extra.js
+
+extra:
+  version:
+    provider: mike
+    default: latest
