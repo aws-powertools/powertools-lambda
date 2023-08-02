@@ -1,6 +1,6 @@
 ## Powertools for AWS Lambda Roadmap
 
-This is the public roadmap for the open source library Powertools for AWS Lambda, currently available in [Python](https://github.com/awslabs/aws-lambda-powertools-python/), [Java](https://github.com/awslabs/aws-lambda-powertools-java/), and [Typescript](https://github.com/awslabs/aws-lambda-powertools-typescript).
+This is the public roadmap for the open source library Powertools for AWS Lambda, currently available in [Python](https://github.com/aws-powertools/powertools-lambda-python/), [Java](https://github.com/aws-powertools/powertools-lambda-java/), [Typescript](https://github.com/aws-powertools/powertools-lambda-typescript), and [dotnet](https://github.com/aws-powertools/powertools-lambda-dotnet).
 
 > Feature requests and RFCs created in the official repositories will be migrated here.
 
@@ -8,9 +8,9 @@ This is the public roadmap for the open source library Powertools for AWS Lambda
 
 Please use GitHub issues to raise feature requests, and RFCs to propose feature designs and major proposals that require further discussions.
 
-[See the roadmap »](https://github.com/awslabs/aws-lambda-powertools-roadmap/projects/1)
+[See the roadmap »](https://github.com/aws-powertools/powertools-lambda/projects/1)
 
-**NOTE**: We're progressively migrating to GitHub Projects Beta. We're starting with Python: https://awslabs.github.io/aws-lambda-powertools-python/latest/roadmap. As we complete and agree on a baseline and automation, we will repurpose this repository to be a landing page for feature parity across languages and more.
+**NOTE**: We're progressively migrating to GitHub Projects Beta. We're starting with Python: https://docs.powertools.aws.dev/lambda/python/latest/roadmap/. As we complete and agree on a baseline and automation, we will repurpose this repository to be a landing page for feature parity across languages and more.
 
 ### Roadmap structure
 
