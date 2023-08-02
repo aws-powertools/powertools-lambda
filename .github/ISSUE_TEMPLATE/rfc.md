@@ -12,7 +12,7 @@ approved by: ''
 * RFC PR: (leave this empty)
 * Related issue(s), if known:
 * Area: (i.e. Tracer, Metrics, Logger, etc.)
-* Meet [tenets](https://github.com/awslabs/aws-lambda-powertools-roadmap#tenets): (Yes/no)
+* Meet [tenets](https://docs.powertools.aws.dev/lambda/python/latest/#tenets): (Yes/no)
 * Approved by: ''
 * Reviewed by: ''
 
