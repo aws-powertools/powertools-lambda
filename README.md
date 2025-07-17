@@ -1,26 +1,10 @@
 ## Powertools for AWS Lambda Roadmap
 
-This is the public roadmap for the open source library Powertools for AWS Lambda, currently available in [Python](https://github.com/aws-powertools/powertools-lambda-python/), [Java](https://github.com/aws-powertools/powertools-lambda-java/), and [Typescript](https://github.com/aws-powertools/powertools-lambda-typescript).
-
-> Feature requests and RFCs created in the official repositories will be migrated here.
+This is the public roadmap for the open source library Powertools for AWS Lambda, currently available in [Python](https://github.com/aws-powertools/powertools-lambda-python/), [Java](https://github.com/aws-powertools/powertools-lambda-java/), and [Typescript](https://github.com/aws-powertools/powertools-lambda-typescript), and [.NET](https://github.com/aws-powertools/powertools-lambda-dotnet).
 
 ## Overview
 
-Please use GitHub issues to raise feature requests, and RFCs to propose feature designs and major proposals that require further discussions.
-
-[See the roadmap »](https://github.com/awslabs/aws-lambda-powertools-roadmap/projects/1)
-
-**NOTE**: We're progressively migrating to GitHub Projects Beta. We're starting with Python: https://awslabs.github.io/aws-lambda-powertools-python/latest/roadmap. As we complete and agree on a baseline and automation, we will repurpose this repository to be a landing page for feature parity across languages and more.
-
-### Roadmap structure
-
-**Ideas**. Incoming and existing feature requests that are not being actively considered yet. These will be reviewed by the team when possible.
-
-**Backlog**. Accepted feature requests or enhancements that we want to work on - contributions are greatly appreciated and will be prioritized at this stage.
-
-**Working on it**. Features or enhancements we're currently either researching or implementing it. Activities that are nearing completion will have tentative dates to signal  when we're planning to release them.
-
-**Shipped**. Features or enhancements that are now available in the most recent release.
+Please use GitHub issues to raise feature requests, and RFC discussions to propose feature designs and major proposals that require further discussions.
 
 ### Tenets
 
